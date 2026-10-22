@@ -4,9 +4,9 @@
 
 **软件测试方向 · 2027 届**
 
-计算机与软件学院 · 2023 级
+成都锦城学院 · 2023 级
 
-[![Email](https://img.shields.io/badge/Email-lyhua1435%40example.com-EA4335?logo=gmail&logoColor=white)](mailto:lyhua1435@example.com)
+[![Email](https://img.shields.io/badge/Email-lyhua1435%40example.com-EA4335?logo=gmail&logoColor=white)](mailto:Lvhuayi1435@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-lyhua1435--cmd-181717?logo=github&logoColor=white)](https://github.com/lyhua1435-cmd)
 ![Location](https://img.shields.io/badge/成都-可到岗实习-4A90D9)
 
